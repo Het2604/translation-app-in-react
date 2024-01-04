@@ -1,4 +1,7 @@
+
 # Getting Started with Create React App
+![screencapture-localhost-3000-2024-01-04-03_29_04](https://github.com/Het2604/translation-app-in-react/assets/137598780/9f313041-ba95-4d79-9beb-d59b1767c7b9)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
